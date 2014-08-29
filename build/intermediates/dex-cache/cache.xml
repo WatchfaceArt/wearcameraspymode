@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\classes-ebaeb81299aafe21a70e791db896cb72b7b95fff.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\classes-e6e9bdc55963f4a3d07af4cd9eac0aeef1e7995b.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\classes-63d188faab6a1c91c888e1803af05f353720dd99.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\classes-bfc5ce31a223c44770f919e9c90052787833eae7.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\internal_impl-20.0.0-b8389acd74651343e2a49cfc33af0f6c7150f891.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\mobile\build\intermediates\pre-dexed\release\classes-a2416238ae4318aafe1932be953455cc5fff9415.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\mobile\build\intermediates\pre-dexed\release\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\pre-dexed\release\internal_impl-20.0.0-f6a3f3df363b7de6e65a7327832e9f09d85d6438.jar"
+        jar="C:\Users\Paul\Desktop\DEVPAUL\AndroidWearSpyCamera\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

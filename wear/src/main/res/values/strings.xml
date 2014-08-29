@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera</string>
+    <string name="action_switch_0">Back camera</string>
+    <string name="action_switch_1">Front camera</string>
+    <string name="action_flash_0">Coming soon</string>
+    <string name="action_flash_1">Coming soon</string>
+    <string name="action_flash_2">Coming soon</string>
+    <string name="action_timer_0">Coming soon</string>
+    <string name="action_timer_1">Coming soon</string>
+    <string name="action_timer_2">Coming soon</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+</resources>

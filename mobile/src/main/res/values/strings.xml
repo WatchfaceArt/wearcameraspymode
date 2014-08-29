@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wear Camera Remote</string>
+    <string name="share_app">Share This App</string>
+    <string name="more_apps">Get More Apps</string>
+    <string name="submenu_title">Options</string>
+    <string name="select_background">Select Background</string>
+    <string name="background_blue">Only available on Pro version</string>
+    <string name="background_red">Only available on Pro version</string>
+    <string name="background_green">Only available on Pro version</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
